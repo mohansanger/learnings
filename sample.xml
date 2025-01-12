@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Reinsurance>
+                <!-- ======================= Dev Information ======================= -->
+    <Dev>
+        <MasterPath>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs</MasterPath>
+        <InFiles>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs\Reinsurance\01 In Files</InFiles>
+        <Processed>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs\Reinsurance\02 Processed</Processed>
+        <Exception>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs\Reinsurance\03 Exception</Exception>
+        <Logs>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs\Reinsurance\04 Logs</Logs>
+        <Reports>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs\Reinsurance\05 Reports</Reports>
+        <Misc>\\cead.prd\AutomationAnywhere\RPA\NonProd_Logs\Reinsurance\06 Misc</Misc>
+        <EmailTo>autoreinsurancetest@assurant.com,gurvinder.kaur@assurant.com,mohan.singh@assurant.com</EmailTo>
+        <EmailCC>gurvinder.kaur@assurant.com,mohan.singh@assurant.com</EmailCC>
+        <SupportEmail></SupportEmail>
+        <PortNumber>995</PortNumber>
+                               
+                </Dev>
+
+                
+    </Reinsurance>
